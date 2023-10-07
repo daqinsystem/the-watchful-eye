@@ -16,7 +16,7 @@ ignoreErrors = ["error-remote-getjson"]
 sectionPagesMenu = "main"
 
 [params]
-noindex = true
+noindex = false
 
 [params.theme]
 palette = "the-watchful-eye"
