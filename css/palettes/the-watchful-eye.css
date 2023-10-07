@@ -1,0 +1,95 @@
+/* The Watchful Eye - Customized
+ * Based on base16 default dark
+ * https://github.com/chriskempson/base16-default-schemes
+ */
+
+ :root {
+  /* Background	- Page background */
+	--base00: #040304;
+
+  /* Alt. background - Content background */
+	--base01: #040203;
+
+  /* In-text backgrounds - <pre>, <code>, <kbd>, <samp> */
+	--base02: #181818;
+
+  /* Muted text -	:before & :marker symbols */
+	--base03: #585858;
+
+  /* Alt. foreground - Aside text */
+	--base04: #b8b8b8;
+
+  /* Foreground	- Content text */
+	--base05: #fdfefe;
+
+	--base06: #fffeff;
+
+	--base07: #f8f8f8;
+
+	--base08: #ab4642;
+
+	--base09: #dc9656;
+
+  /* Highlights	- Selected text, <mark> */
+	--base0A: #9d0006;
+
+  /* Primary accent	- Logo */
+	--base0B: #fc0001;
+
+  /* Active links	- a:active, a:hover */
+	--base0C: #bc0501;
+
+  /* Links - a:link, a:visited */
+	--base0D: #fc0001;
+
+	--base0E: #ba8baf;
+
+	--base0F: #a16946;
+}/* The Watchful Eye - Customized
+ * Based on base16 default dark
+ * https://github.com/chriskempson/base16-default-schemes
+ */
+
+ :root {
+  /* Background	- Page background */
+	--base00: #040304;
+
+  /* Alt. background - Content background */
+	--base01: #040203;
+
+  /* In-text backgrounds - <pre>, <code>, <kbd>, <samp> */
+	--base02: #181818;
+
+  /* Muted text -	:before & :marker symbols */
+	--base03: #585858;
+
+  /* Alt. foreground - Aside text */
+	--base04: #b8b8b8;
+
+  /* Foreground	- Content text */
+	--base05: #fdfefe;
+
+	--base06: #fffeff;
+
+	--base07: #f8f8f8;
+
+	--base08: #ab4642;
+
+	--base09: #dc9656;
+
+  /* Highlights	- Selected text, <mark> */
+	--base0A: #9d0006;
+
+  /* Primary accent	- Logo */
+	--base0B: #fc0001;
+
+  /* Active links	- a:active, a:hover */
+	--base0C: #bc0501;
+
+  /* Links - a:link, a:visited */
+	--base0D: #fc0001;
+
+	--base0E: #ba8baf;
+
+	--base0F: #a16946;
+}
