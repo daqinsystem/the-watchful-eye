@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://daqinsystem.github.io/the-watchful-eye/"
 theme = "risotto"
 title = " "
 logo = "img/the-watchful-eye.png"
@@ -16,7 +16,7 @@ ignoreErrors = ["error-remote-getjson"]
 sectionPagesMenu = "main"
 
 [params]
-noindex = false
+noindex = true
 
 [params.theme]
 palette = "the-watchful-eye"
