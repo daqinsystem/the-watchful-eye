@@ -1,4 +1,4 @@
-baseURL = "https://daqinsystem.github.io/the-watchful-eye/"
+baseURL = "/"
 theme = "risotto"
 title = " "
 logo = "img/the-watchful-eye.png"
